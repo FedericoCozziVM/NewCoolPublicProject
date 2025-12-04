@@ -1,6 +1,11 @@
 import math
 import sys
 
+def compute_squared(number: float) -> float:
+    """
+    Computes square of number
+    """
+    return number ** 2
 
 def compute_square_root(number: float) -> float:
     """
