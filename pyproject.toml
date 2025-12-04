@@ -1,0 +1,19 @@
+[project]
+name = "newcoolpublicproject"
+version = "0.1.0"
+description = "A Python 3.12 project to compute square roots"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.8",
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
