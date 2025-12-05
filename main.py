@@ -1,11 +1,11 @@
 import math
 import sys
 
-def compute_squared(number: float) -> float:
+def compute_cube(number: float) -> float:
     """
-    Computes square of number
+    Computes cube of number
     """
-    return number ** 2
+    return number ** 3
 
 def compute_square_root(number: float) -> float:
     """
