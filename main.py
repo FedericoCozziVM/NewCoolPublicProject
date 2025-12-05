@@ -24,7 +24,7 @@ def compute_square_root(number: float) -> float:
 # And this
 # And this also
 # Maybe the last?
-# pls
+# pls pls
 
 
 def main():
