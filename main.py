@@ -20,6 +20,7 @@ def compute_square_root(number: float) -> float:
     return math.sqrt(number)
 
 # This change should be reflected in mirrored repo
+# Also this comment
 
 
 def main():
