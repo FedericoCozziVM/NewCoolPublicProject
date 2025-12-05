@@ -23,6 +23,7 @@ def compute_square_root(number: float) -> float:
 # Also this comment
 # And this
 # And this also
+# Maybe the last?
 
 
 def main():
