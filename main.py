@@ -19,6 +19,8 @@ def compute_square_root(number: float) -> float:
         raise ValueError("Cannot compute square root of a negative number")
     return math.sqrt(number)
 
+# This change should be reflected in mirrored repo
+
 
 def main():
     """Main function to run the square root calculator."""
